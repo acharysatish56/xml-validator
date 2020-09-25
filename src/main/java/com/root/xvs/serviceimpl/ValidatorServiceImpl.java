@@ -1,12 +1,12 @@
 package com.root.xvs.serviceimpl;
 
-import com.root.xvs.service.ValidationService;
+import com.root.xvs.service.ValidatorService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 
 @Component
 @Slf4j
-public class ValidationServiceImpl implements ValidationService {
+public class ValidatorServiceImpl implements ValidatorService {
 
     @Override
     public void validate() {

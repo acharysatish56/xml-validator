@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/validate")
 @Slf4j
-public class XmlValidationRestController {
+public class XmlValidatorRestController {
 
 }

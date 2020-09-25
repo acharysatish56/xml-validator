@@ -1,6 +1,6 @@
 package com.root.xvs.service;
 
-public interface ValidationService {
+public interface ValidatorService {
     void validate();
     void generateXml();
 }
